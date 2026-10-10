@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 import pkg from './package.json' with { type: 'json' }
 
-// Served from https://canpamukcu.github.io/atlas-life-os/
+// Served from https://cpamukcu.github.io/atlas-life-os/
 const base = '/atlas-life-os/'
 
 export default defineConfig({

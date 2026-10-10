@@ -2,7 +2,7 @@
 
 One private app for school, habits, tasks, money, health, faith and reflection, with an AI-assistant personality called ATLAS and an Iron-Man-inspired (but original) holographic HUD.
 
-**Live:** https://canpamukcu.github.io/atlas-life-os/
+**Live:** https://cpamukcu.github.io/atlas-life-os/
 
 > v0.1 runs in **local mode**: everything you enter is stored on the device you use (IndexedDB). Phone and computer sync comes in a later phase. Export a backup regularly (Settings → Backup).
 
